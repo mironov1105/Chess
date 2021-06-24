@@ -34,7 +34,7 @@ namespace Chess
         {
             InitializeComponent();
 
-            Per.chessSprites = new Bitmap("D:\\Chess\\chess.png");
+            Per.chessSprites = new Bitmap("chess.png");
 
             Init();
         }
